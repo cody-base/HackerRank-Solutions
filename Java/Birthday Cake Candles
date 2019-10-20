@@ -2,6 +2,7 @@
 Given an array of cake candle heights, this challenge is to determine how
 many candles will be blown out when only the tallest ones can be.
 */
+
 static int birthdayCakeCandles(int[] ar) 
     {
         // Map to track how many candles there are of each height
