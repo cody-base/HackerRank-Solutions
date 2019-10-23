@@ -4,11 +4,13 @@ or even and inclusive between 5 and 20, and 'Not Weird' if it is
 even and inclusive between 2 and 5, or even and over 20.
 */
 
-public class Solution {
+public class Solution 
+{
 
     private static final Scanner scanner = new Scanner(System.in);
 
-    public static void main(String[] args) {
+    public static void main(String[] args) 
+    {
         int N = scanner.nextInt();
         scanner.skip("(\r\n|[\n\r\u2028\u2029\u0085])?");
 
