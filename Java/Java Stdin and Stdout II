@@ -3,7 +3,8 @@ This challenge is to scan an integer, double, and String, and then print
 them out in reverse order.
 */
 
-    public static void main(String[] args) {
+    public static void main(String[] args) 
+    {
         // Input order for tests is int, double, String
         // Must use nextLine to clear input buffer after nextInt, nextDouble
         Scanner scan = new Scanner(System.in);
