@@ -2,7 +2,8 @@
 This challenge is to scan 3 integers and print them in order.
 */
 
-    public static void main(String[] args) {
+    public static void main(String[] args) 
+    {
         // Take 3 integers and print them out in order
         Scanner scan = new Scanner(System.in);
         int a = scan.nextInt();
