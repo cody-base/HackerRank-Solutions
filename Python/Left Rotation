@@ -6,7 +6,7 @@
 # 2 3 4 5 0 1
 
 def rotLeft(a, d):
-    #Add the first element to the end of the list d times, then return the list
+    # Add the first element to the end of the list d times, then return the list
     for x in range(d):
         a.append(a.pop(0))
     return a
