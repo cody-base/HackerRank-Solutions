@@ -1,6 +1,7 @@
 /*
 Given an array named a, this challenge is to print the values of the array in 
-reverse order, with a space inbetween each value.
+reverse order, with a space inbetween each value. The HR boilerplate also
+requires an array be returned.
 */
 
 static int[] reverseArray(int[] a) 
