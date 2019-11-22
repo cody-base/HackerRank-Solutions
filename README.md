@@ -58,7 +58,7 @@ This repository holds my solutions to HackerRank Challenges in various languages
 | [New Year Chaos](https://www.hackerrank.com/challenges/new-year-chaos) | [Solution](https://github.com/cctay/HackerRank-Solutions/blob/master/Golang/New%20Year%20Chaos.go) |
 | [Pairs](https://www.hackerrank.com/challenges/pairs) | [Solution](https://github.com/cctay/HackerRank-Solutions/blob/master/Golang/Pairs.go) |
 | [Plus Minus](https://www.hackerrank.com/challenges/plus-minus) | [Solution](https://github.com/cctay/HackerRank-Solutions/blob/master/Golang/Plus%20Minus.go) |
-| [Priyanks and Toys](https://www.hackerrank.com/challenges/priyanka-and-toys) | [Solution](https://github.com/cctay/HackerRank-Solutions/blob/master/Golang/Priyanka%20and%20Toys.go) |
+| [Priyanka and Toys](https://www.hackerrank.com/challenges/priyanka-and-toys) | [Solution](https://github.com/cctay/HackerRank-Solutions/blob/master/Golang/Priyanka%20and%20Toys.go) |
 | [Repeated String](https://www.hackerrank.com/challenges/repeated-string) | [Solution](https://github.com/cctay/HackerRank-Solutions/blob/master/Golang/Repeated%20String.go) |
 | [Sherlock and Anagrams](https://www.hackerrank.com/challenges/sherlock-and-anagrams) | [Solution](https://github.com/cctay/HackerRank-Solutions/blob/master/Golang/Sherlock%20and%20Anagrams.go) |
 | [Sherlock and the Valid String](https://www.hackerrank.com/challenges/sherlock-and-valid-string) | [Solution](https://github.com/cctay/HackerRank-Solutions/blob/master/Golang/Sherlock%20and%20the%20Valid%20String.go) |
@@ -94,6 +94,7 @@ This repository holds my solutions to HackerRank Challenges in various languages
 | [Migratory Birds](https://www.hackerrank.com/challenges/migratory-birds) | [Solution](https://github.com/cctay/HackerRank-Solutions/blob/master/Java/Migratory%20Birds.java) |
 | [Minimum Swaps 2](https://www.hackerrank.com/challenges/minimum-swaps-2) | [Solution](https://github.com/cctay/HackerRank-Solutions/blob/master/Java/Minimum%20Swaps%202.java) |
 | [New Year Chaos](https://www.hackerrank.com/challenges/new-year-chaos) | [Solution](https://github.com/cctay/HackerRank-Solutions/blob/master/Java/New%20Year%20Chaos.java) |
+| [Priyanka and Toys](https://www.hackerrank.com/challenges/priyanka-and-toys) | [Solution](https://github.com/cctay/HackerRank-Solutions/blob/master/Java/Priyanka%20and%20Toys.java) |
 | [Repeated String](https://www.hackerrank.com/challenges/repeated-string) | [Solution](https://github.com/cctay/HackerRank-Solutions/blob/master/Java/Repeated%20String.java) |
 | [Sherlock and Anagrams](https://www.hackerrank.com/challenges/sherlock-and-anagrams) | [Solution](https://github.com/cctay/HackerRank-Solutions/blob/master/Java/Sherlock%20and%20Anagrams.java) |
 | [Sherlock and the Valid String](https://www.hackerrank.com/challenges/sherlock-and-valid-string) | [Solution](https://github.com/cctay/HackerRank-Solutions/blob/master/Java/Sherlock%20and%20the%20Valid%20String.java) |
