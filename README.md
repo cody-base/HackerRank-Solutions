@@ -6,13 +6,13 @@
 \
 This repository holds my solutions to HackerRank Challenges in various languages.
 
-* [Jump to C++](#cpp)
+* [Jump to C++]('#c++')
 * [Jump to Golang](#golang)
 * [Jump to Java](#java)
 * [Jump to Perl](#perl)
 * [Jump to Python](#python)
 
-# CPP
+# C++
 | Challenge | Solution |
 | --------- | -------- |
 | [2D Array - DS](https://www.hackerrank.com/challenges/2d-array) | [Solution](https://github.com/cctay/HackerRank-Solutions/blob/master/C%2B%2B/2D%20Array%20-%20DS.cpp) |
