@@ -1,8 +1,10 @@
-# HackerRank-Solutions
+<img src="https://i.imgur.com/shLkJj5.png">
+
 Work in progress!\
 This repository holds my solutions to HackerRank Challenges in various languages.\
 Java is the language I used throughout college and the one I'm most familiar with.\
-I self-taught the rest to broaden my skill set.\
+I self-taught the rest to broaden my skill set.
+
 [Jump to C++](#cpp)\
 [Jump to Golang](#golang)\
 [Jump to Java](#java)\
