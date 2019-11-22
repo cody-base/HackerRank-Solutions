@@ -3,8 +3,8 @@ Given a number of integers n, this challenge is to create an array a
 and fill it with each of the n integers, then print them out.
 */
 
-public static void main(String[] args) {
-
+public static void main(String[] args) 
+{
     Scanner scan = new Scanner(System.in);
     int n = scan.nextInt();
     int[] a = new int[n];
