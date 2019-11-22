@@ -5,10 +5,6 @@ and an array of where oranges fell named oranges, this challenge is to print
 how many apples and oranges landed on a house roof, defined as the space between
 the start and end points s and t. The positions of each point and the fallen
 fruit are indicated by integers.
-
-An example of the layout:
-a  s t  b
-012345678
 */
 
 func countApplesAndOranges(s int32, t int32, a int32, b int32, apples []int32, oranges []int32) {
