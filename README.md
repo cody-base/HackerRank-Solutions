@@ -79,6 +79,7 @@ This repository holds my solutions to HackerRank Challenges in various languages
 | [Birthday Chocolate](https://www.hackerrank.com/challenges/the-birthday-bar) | [Solution](https://github.com/cctay/HackerRank-Solutions/blob/master/Java/Birthday%20Chocolate.java) |
 | [Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys) | [Solution](https://github.com/cctay/HackerRank-Solutions/blob/master/Java/Counting%20Valleys.java) |
 | [Dynamic Array](https://www.hackerrank.com/challenges/dynamic-array) | [Solution](https://github.com/cctay/HackerRank-Solutions/blob/master/Java/Dynamic%20Array.java) |
+| [Find the Point](https://www.hackerrank.com/challenges/find-point) | [Solution](https://github.com/cctay/HackerRank-Solutions/blob/master/Java/Find%20The%20Point.java) |
 | [Hash Tables: Ransom Note](https://www.hackerrank.com/challenges/ctci-ransom-note) | [Solution](https://github.com/cctay/HackerRank-Solutions/blob/master/Java/Ransom%20Note.java) |
 | [Java 1D Array](https://www.hackerrank.com/challenges/java-1d-array-introduction) | [Solution](https://github.com/cctay/HackerRank-Solutions/blob/master/Java/Java%201D%20Array.java) |
 | [Java Currency Formatter](https://www.hackerrank.com/challenges/java-currency-formatter) | [Solution](https://github.com/cctay/HackerRank-Solutions/blob/master/Java/Java%20Currency%20Formatter.java) |
