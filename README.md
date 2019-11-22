@@ -1,15 +1,16 @@
-<img src="https://i.imgur.com/shLkJj5.png">
+<p align="center">
+  <img src="https://i.imgur.com/gNY4w2P.png"><br>
+  Work in progress!
+  </p>
 
-Work in progress!\
-This repository holds my solutions to HackerRank Challenges in various languages.\
-Java is the language I used throughout college and the one I'm most familiar with.\
-I self-taught the rest to broaden my skill set.
+\
+This repository holds my solutions to HackerRank Challenges in various languages.
 
-[Jump to C++](#cpp)\
-[Jump to Golang](#golang)\
-[Jump to Java](#java)\
-[Jump to Perl](#perl)\
-[Jump to Python](#python)
+* [Jump to C++](#cpp)
+* [Jump to Golang](#golang)
+* [Jump to Java](#java)
+* [Jump to Perl](#perl)
+* [Jump to Python](#python)
 
 # CPP
 | Challenge | Solution |
