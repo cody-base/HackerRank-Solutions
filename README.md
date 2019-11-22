@@ -1,5 +1,5 @@
 # HackerRank-Solutions
-Work in progress\
+Work in progress!\
 This repository holds my solutions to HackerRank Challenges in various languages.\
 Java is the language I used throughout college and the one I'm most familiar with.\
 I self-taught the rest to broaden my skill set.\
