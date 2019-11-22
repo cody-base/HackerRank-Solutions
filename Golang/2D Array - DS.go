@@ -1,10 +1,7 @@
 /*
 Given a 6 x 6 2D array named arr, this challenge is to find the largest hourglass sum in the array.
 An hourglass sum is defined as the sum of array values that form an hourglass shape.
-An hourglass shape is 3 values across the top and bottom with 1 value in the center connecting them:
-1 2 3
-  4
-5 6 7
+An hourglass shape is 3 values across the top and bottom with 1 value in the center connecting them.
 */
 
 func hourglassSum(arr [][]int32) int32 {
