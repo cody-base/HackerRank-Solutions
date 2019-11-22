@@ -7,22 +7,22 @@ int birthdayCakeCandles(vector<int> ar)
 {
     // Map to track how many candles there are of each height
     // Track the tallest candle
-    map<int, int> mappy; 
+    map<int, int> candles; 
     int tallest = 0;
 
     // Loop through the array, adding each candle height to the map
     // If a candle is taller than the current tallest, it is now the tallest
     for (int i : ar) 
     {
-        if (mappy.count(i) > 0)
-            mappy[i] = mappy[i] + 1;
+        if (candles.count(i) > 0)
+            candles[i] = candles[i] + 1;
         else
-            mappy.insert({i, 1}); 
+            candles.insert({i, 1}); 
 
         if (i > tallest) 
             tallest = i;
     }
     
     // Return how many candles there are of the tallest height
-    return mappy[tallest];
+    return candles[tallest];
 }
