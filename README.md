@@ -92,7 +92,11 @@ This repository holds my solutions to HackerRank Challenges in various languages
 | [Making Anagrams](https://www.hackerrank.com/challenges/making-anagrams) | [Solution](https://github.com/cctay/HackerRank-Solutions/blob/master/Java/Making%20Anagrams.java) |
 | [Mark and Toys](https://www.hackerrank.com/challenges/mark-and-toys) | [Solution](https://github.com/cctay/HackerRank-Solutions/blob/master/Java/Mark%20and%20Toys.java) |
 | [Migratory Birds](https://www.hackerrank.com/challenges/migratory-birds) | [Solution](https://github.com/cctay/HackerRank-Solutions/blob/master/Java/Migratory%20Birds.java) |
+| [Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum) | [Solution](https://github.com/cctay/HackerRank-Solutions/blob/master/Java/Mini-Max%20Sum.java) |
+| [Minimum Absolute Difference in an Array](https://www.hackerrank.com/challenges/minimum-absolute-difference-in-an-array) | [Solution](https://github.com/cctay/HackerRank-Solutions/blob/master/Java/Minimum%20Absolute%20Difference%20in%20an%20Array.java) |
+| [Minimum Height Triangle](https://www.hackerrank.com/challenges/lowest-triangle) | [Solution](https://github.com/cctay/HackerRank-Solutions/blob/master/Java/Minimum%20Height%20Triangle.java) |
 | [Minimum Swaps 2](https://www.hackerrank.com/challenges/minimum-swaps-2) | [Solution](https://github.com/cctay/HackerRank-Solutions/blob/master/Java/Minimum%20Swaps%202.java) |
+| [Minimum Time Required](https://www.hackerrank.com/challenges/minimum-time-required) | [Solution](https://github.com/cctay/HackerRank-Solutions/blob/master/Java/Minimum%20Time%20Required) |
 | [New Year Chaos](https://www.hackerrank.com/challenges/new-year-chaos) | [Solution](https://github.com/cctay/HackerRank-Solutions/blob/master/Java/New%20Year%20Chaos.java) |
 | [Pairs](https://www.hackerrank.com/challenges/pairs) | [Solution](https://github.com/cctay/HackerRank-Solutions/blob/master/Java/Pairs.java) |
 | [Plus Minus](https://www.hackerrank.com/challenges/plus-minus) | [Solution](https://github.com/cctay/HackerRank-Solutions/blob/master/Java/Plus%20Minus.java) |
