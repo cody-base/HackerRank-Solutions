@@ -1,6 +1,5 @@
 <p align="center">
   <img src="https://i.imgur.com/gNY4w2P.png"><br>
-  Work in progress!
   </p>
 
 \
