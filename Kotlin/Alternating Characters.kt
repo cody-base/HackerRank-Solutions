@@ -1,7 +1,6 @@
 /*
 Given a string of characters named s, containing only the characters A and B, this challenge
-is to manipulate the string via deletion so there are no repeating characters. Actually
-deleting characters timed out the challenge, so I'm just counting how many are needed.
+is to manipulate the string via deletion so there are no repeating characters.
 */
 
 fun alternatingCharacters(s: String): Int {
