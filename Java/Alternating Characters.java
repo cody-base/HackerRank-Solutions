@@ -4,17 +4,23 @@ is to manipulate the string via deletion so there are no repeating characters. A
 deleting characters timed out the challenge, so I'm just counting how many are needed.
 */
 
-static int alternatingCharacters(String s) 
-{
-    // Variable to count how many matching consecutive characters exist
-    int count = 0;
+    public static int alternatingCharacters(String s) {
+        // Make a new StringBuilder and track how many characters are deleted
+        StringBuilder sb = new StringBuilder(s);
+        int count = 0;
+        int i = 0;
 
-    // If the character after the one we're looking at is the same, increase count
-    for (int i = 0; i < s.length()-1; i++)
-    {
-      if (s.charAt(i) == s.charAt(i+1))
-          count++;
+        // Delete this character if the next is the same
+        // Only move forward through the string if the next character is different
+        while (i < sb.length()-1) {
+            if (sb.charAt(i) == sb.charAt(i+1)) {
+                sb.deleteCharAt(i);
+                count++;
+            } else {
+                i++;
+            }
+        }
+        
+        // Return how many matching consecutive characters exist
+        return count;
     }
-    // Return how many matching consecutive characters exist
-    return count;
-}
